@@ -3,10 +3,10 @@
 ## By: Matthew Blake
 
 * 2pt vodka
-* 1pt cocoanut rum
+* 1pt coconut rum
 * 1pt coffee liquer
 * 1pt irish cream
-* 1pt cream of cocoanut
+* 1pt cream of coconut
 * ice
 
 1. Mix ingredients
